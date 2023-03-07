@@ -4,6 +4,8 @@ Esse projeto 3D simula o lançamento, desacoplagem e pouso com paraquedas de um 
 Toda a simulação foi criada para atender as leis da física, e o material de estudos em que ele foi baseado, foi retirado do site oficial da NASA:
 https://www.grc.nasa.gov/WWW/K-12/rocket/rktflight.html
 
+ - Projeto realizado em 7 dias.
+
  *Observação importante:*
 Não é necessário ter a Unity nem qualquer outro programa instalado para testar, pois a pasta Build está com todos os arquivos necessários para rodar o projeto já buildado, bastando apenas abrir o arquivo "Rocket Launcher.exe"!
 
